@@ -1,3 +1,4 @@
-.direnv
-mir-src
+.direnv/
 result
+build/
+.cache/
